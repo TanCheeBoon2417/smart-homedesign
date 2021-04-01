@@ -10,6 +10,17 @@
       "StackName": "amplify-smarthomedesign-dev-123054",
       "StackId": "arn:aws:cloudformation:us-east-1:679538412841:stack/amplify-smarthomedesign-dev-123054/05c73d00-92a3-11eb-97fa-0ed24b955b13",
       "AmplifyAppId": "d31pep1uds1j0y"
+    },
+    "categories": {
+      "auth": {
+        "smarthomedesign1f4a6fbe": {}
+      },
+      "function": {
+        "S3Triggerf79e0bf9": {
+          "deploymentBucketName": "amplify-smarthomedesign-dev-123054-deployment",
+          "s3Key": "amplify-builds/S3Triggerf79e0bf9-3569706153477a566a34-build.zip"
+        }
+      }
     }
   }
 }
